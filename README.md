@@ -9,10 +9,10 @@ python <script_name.py>
 ```
 
 Order in the list
-1. helloworld.py
-2. stdin.py
-3. list_ops.py
-4. string_man.py
-5. tuples_Dict.py
-6. IFcond.py
-6. ifthen2.py
+- helloworld.py
+- stdin.py
+- list_ops.py
+- string_man.py
+- tuples_Dict.py
+- IFcond.py
+- ifthen2.py
